@@ -4,7 +4,7 @@ Proleague
 Do you hate getting your starcraft 2 proleague spoiled? This command line utility can help!
 
 # Description
-This program curls the starcraft 2 proleague page and organizes the games in a spoiler free way.    
+This program curls the starcraft 2 proleague page and organizes the games in a spoiler free way. By default it displays the 5 most recent series, but a parameter can dictate a variable number.
 
     WOONGJIN vs SAMSUNG
     1SET  http://www.twitch.tv/sc2proleague/c/1990818
