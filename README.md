@@ -63,6 +63,36 @@ The s flag displays spoilers, including the proper number of games and and the p
 
     python proleague.pyc s
 
+For instance
+     
+    WOONGJIN vs SAMSUNG
+    1SET    http://www.twitch.tv/sc2proleague/c/1990818	 Mekia (Z)  vs Strok (P) 
+    2SET	http://www.twitch.tv/sc2proleague/c/1990861	 Rudy (T)  vs Reality (T) 
+    3SET	http://www.twitch.tv/sc2proleague/c/1990866	 SoulKey (Z)  vs hOpe (Z) 
+    4SET	http://www.twitch.tv/sc2proleague/c/1990924	 BrAvO (T)  vs Turn (T) 
+    5SET	http://www.twitch.tv/sc2proleague/c/1990940	 Aria (P)  vs Jangbi (P) 
+     
+    CJ vs 8TH
+    1SET	http://www.twitch.tv/sc2proleague/c/1990533	 effOrt (Z)  vs TY (T) 
+    2SET	http://www.twitch.tv/sc2proleague/c/1990633	 herO (P)  vs Argo (P) 
+    3SET	http://www.twitch.tv/sc2proleague/c/1990674	 hydra (Z)  vs Savage (Z) 
+    4SET	http://www.twitch.tv/sc2proleague/c/1990669	 skyHigh (T)  vs Cure (T) 
+     
+    EGTL vs SKT
+    1SET	http://www.twitch.tv/sc2proleague/c/1987286	 Stepano (Z)  vs Paralyze (P) 
+    2SET	http://www.twitch.tv/sc2proleague/c/1987320	 zenio (Z)  vs Rain (P) 
+    3SET	http://www.twitch.tv/sc2proleague/c/1987330	 Revival (Z)  vs S2 (Z) 
+    4SET	http://www.twitch.tv/sc2proleague/c/1987365	 Taeja (T)  vs Fantasy (T) 
+     
+    KT vs STX
+    1SET	http://www.twitch.tv/sc2proleague/c/1986956	 Zest (P)  vs Trap (P) 
+    2SET	http://www.twitch.tv/sc2proleague/c/1986957	 HitmaN (Z)  vs Innovation (T) 
+    3SET	http://www.twitch.tv/sc2proleague/c/1987066	 MyuNgSiK (P)  vs Mini (P) 
+    4SET	http://www.twitch.tv/sc2proleague/c/1987081	 Flash (T)  vs Last (T) 
+    5SET	http://www.twitch.tv/sc2proleague/c/1987275	 Crazy (Z)  vs hyvaa (Z) 
+    6SET	http://www.twitch.tv/sc2proleague/c/1987278	 Carno (P)  vs Comet (P) 
+     
+
 A number flag will display that number of "pages" of games. 
 
     python proleague.pyc 4
