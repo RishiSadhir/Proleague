@@ -5,6 +5,7 @@ Do you hate getting your starcraft 2 proleague spoiled? This command line utilit
 
 # Description
 This program curls the starcraft 2 proleague page and organizes the games in a spoiler free way.    
+
     WOONGJIN vs SAMSUNG
     1SET  http://www.twitch.tv/sc2proleague/c/1990818
     2SET	http://www.twitch.tv/sc2proleague/c/1990861
