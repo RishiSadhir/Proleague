@@ -55,14 +55,18 @@ It makes up fake (and believable) urls for sets that may not actually exist.
 
 # Running the program
 Run this in your command line with 
+
     python proleague.pyc
     
 # Parameters
 The s flag displays spoilers, including the proper number of games and and the players
+
     python proleague.pyc s
 
 A number flag will display that number of "pages" of games. 
+
     python proleague.pyc 4
     
 All combinations work
+
     python proleague.pyc s 5
