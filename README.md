@@ -1,7 +1,7 @@
 Proleague
 =========
 
-Do you hate getting your Starcraft 2 proleague spoiled? This command line utility can help!
+Do you hate getting your Starcraft 2 proleague spoiled? This command line script can help!
 
 # Description
 This program curls the Starcraft 2 proleague page and organizes the games in a spoiler free way. By default it displays the 5 most recent series, but a parameter can dictate a variable number.
