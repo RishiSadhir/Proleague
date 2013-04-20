@@ -93,7 +93,7 @@ For instance
     6SET	http://www.twitch.tv/sc2proleague/c/1987278	 Carno (P)  vs Comet (P) 
      
 
-A number flag will display that number of "pages" of games. 
+A number flag will display that number of "pages" of games. The default is 2.
 
     python proleague.pyc 4
     
